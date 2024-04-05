@@ -1,0 +1,17 @@
+G:\C#\Quiz_Project\bin\Debug\net7.0\Quiz_Project.exe
+G:\C#\Quiz_Project\bin\Debug\net7.0\Quiz_Project.deps.json
+G:\C#\Quiz_Project\bin\Debug\net7.0\Quiz_Project.runtimeconfig.json
+G:\C#\Quiz_Project\bin\Debug\net7.0\Quiz_Project.dll
+G:\C#\Quiz_Project\bin\Debug\net7.0\Quiz_Project.pdb
+G:\C#\Quiz_Project\bin\Debug\net7.0\SoapFormatter.dll
+G:\C#\Quiz_Project\obj\Debug\net7.0\Quiz_Project.csproj.AssemblyReference.cache
+G:\C#\Quiz_Project\obj\Debug\net7.0\Quiz_Project.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Quiz_Project\obj\Debug\net7.0\Quiz_Project.AssemblyInfoInputs.cache
+G:\C#\Quiz_Project\obj\Debug\net7.0\Quiz_Project.AssemblyInfo.cs
+G:\C#\Quiz_Project\obj\Debug\net7.0\Quiz_Project.csproj.CoreCompileInputs.cache
+G:\C#\Quiz_Project\obj\Debug\net7.0\Quiz_Project.csproj.CopyComplete
+G:\C#\Quiz_Project\obj\Debug\net7.0\Quiz_Project.dll
+G:\C#\Quiz_Project\obj\Debug\net7.0\refint\Quiz_Project.dll
+G:\C#\Quiz_Project\obj\Debug\net7.0\Quiz_Project.pdb
+G:\C#\Quiz_Project\obj\Debug\net7.0\Quiz_Project.genruntimeconfig.cache
+G:\C#\Quiz_Project\obj\Debug\net7.0\ref\Quiz_Project.dll

@@ -1,0 +1,155 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Quiz_Project.User%2C%20Quiz_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-2" />
+      <_size>6</_size>
+      <_version>25</_version>
+    </a1:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-2" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:User[8]">
+      <item href="#ref-3" />
+      <item href="#ref-4" />
+      <item href="#ref-5" />
+      <item href="#ref-6" />
+      <item href="#ref-7" />
+      <item href="#ref-8" />
+    </SOAP-ENC:Array>
+    <a2:User id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_login_x003E_k__BackingField id="ref-9">Nikita</_x003C_login_x003E_k__BackingField>
+      <_x003C_password_x003E_k__BackingField id="ref-10">1</_x003C_password_x003E_k__BackingField>
+      <_x003C_dateOfBirth_x003E_k__BackingField>0001-01-01T00:00:00.0000000+02:00</_x003C_dateOfBirth_x003E_k__BackingField>
+      <stats href="#ref-11" />
+    </a2:User>
+    <a2:User id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_login_x003E_k__BackingField id="ref-12">Anton</_x003C_login_x003E_k__BackingField>
+      <_x003C_password_x003E_k__BackingField id="ref-13">1234</_x003C_password_x003E_k__BackingField>
+      <_x003C_dateOfBirth_x003E_k__BackingField>2000-01-01T00:00:00.0000000+02:00</_x003C_dateOfBirth_x003E_k__BackingField>
+      <stats href="#ref-14" />
+    </a2:User>
+    <a2:User id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_login_x003E_k__BackingField id="ref-15">Maks</_x003C_login_x003E_k__BackingField>
+      <_x003C_password_x003E_k__BackingField id="ref-16">1234</_x003C_password_x003E_k__BackingField>
+      <_x003C_dateOfBirth_x003E_k__BackingField>2000-02-01T00:00:00.0000000+02:00</_x003C_dateOfBirth_x003E_k__BackingField>
+      <stats href="#ref-17" />
+    </a2:User>
+    <a2:User id="ref-6" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_login_x003E_k__BackingField id="ref-18">Roman</_x003C_login_x003E_k__BackingField>
+      <_x003C_password_x003E_k__BackingField id="ref-19">12345</_x003C_password_x003E_k__BackingField>
+      <_x003C_dateOfBirth_x003E_k__BackingField>2000-10-10T00:00:00.0000000+03:00</_x003C_dateOfBirth_x003E_k__BackingField>
+      <stats href="#ref-20" />
+    </a2:User>
+    <a2:User id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_login_x003E_k__BackingField id="ref-21">Anna</_x003C_login_x003E_k__BackingField>
+      <_x003C_password_x003E_k__BackingField id="ref-22">Anna</_x003C_password_x003E_k__BackingField>
+      <_x003C_dateOfBirth_x003E_k__BackingField>0200-11-11T00:00:00.0000000+02:00</_x003C_dateOfBirth_x003E_k__BackingField>
+      <stats href="#ref-23" />
+    </a2:User>
+    <a2:User id="ref-8" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_login_x003E_k__BackingField id="ref-24">Jo</_x003C_login_x003E_k__BackingField>
+      <_x003C_password_x003E_k__BackingField id="ref-25">1</_x003C_password_x003E_k__BackingField>
+      <_x003C_dateOfBirth_x003E_k__BackingField>1111-11-11T00:00:00.0000000+02:00</_x003C_dateOfBirth_x003E_k__BackingField>
+      <stats href="#ref-26" />
+    </a2:User>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-11" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Quiz_Project.QuizStats%2C%20Quiz_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-27" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-14" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Quiz_Project.QuizStats%2C%20Quiz_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-28" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-17" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Quiz_Project.QuizStats%2C%20Quiz_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-29" />
+      <_size>3</_size>
+      <_version>3</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-20" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Quiz_Project.QuizStats%2C%20Quiz_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-30" />
+      <_size>1</_size>
+      <_version>1</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-23" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Quiz_Project.QuizStats%2C%20Quiz_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-31" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-26" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Quiz_Project.QuizStats%2C%20Quiz_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-32" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-27" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:QuizStats[4]">
+      <item href="#ref-33" />
+      <item href="#ref-34" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-28" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:QuizStats[4]">
+      <item href="#ref-35" />
+      <item href="#ref-36" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-29" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:QuizStats[4]">
+      <item href="#ref-37" />
+      <item href="#ref-38" />
+      <item href="#ref-39" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-30" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:QuizStats[4]">
+      <item href="#ref-40" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-31" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:QuizStats[4]">
+      <item href="#ref-41" />
+      <item href="#ref-42" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-32" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:QuizStats[0]">
+    </SOAP-ENC:Array>
+    <a2:QuizStats id="ref-33" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_section_x003E_k__BackingField id="ref-43">MathTest</_x003C_section_x003E_k__BackingField>
+      <time>2024-04-03T16:21:09.1911331+03:00</time>
+      <score>10</score>
+    </a2:QuizStats>
+    <a2:QuizStats id="ref-34" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_section_x003E_k__BackingField id="ref-44">HistoryTest</_x003C_section_x003E_k__BackingField>
+      <time>2024-04-03T18:04:26.1486365+03:00</time>
+      <score>15</score>
+    </a2:QuizStats>
+    <a2:QuizStats id="ref-35" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_section_x003E_k__BackingField id="ref-45">HistoryTest</_x003C_section_x003E_k__BackingField>
+      <time>2024-04-03T17:52:40.4319583+03:00</time>
+      <score>8</score>
+    </a2:QuizStats>
+    <a2:QuizStats id="ref-36" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_section_x003E_k__BackingField id="ref-46">AllSubjectsTest</_x003C_section_x003E_k__BackingField>
+      <time>2024-04-03T17:54:34.7117030+03:00</time>
+      <score>12</score>
+    </a2:QuizStats>
+    <a2:QuizStats id="ref-37" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_section_x003E_k__BackingField id="ref-47">MathTest</_x003C_section_x003E_k__BackingField>
+      <time>2024-04-03T13:59:01.2167493+03:00</time>
+      <score>2</score>
+    </a2:QuizStats>
+    <a2:QuizStats id="ref-38" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_section_x003E_k__BackingField id="ref-48">MathTest</_x003C_section_x003E_k__BackingField>
+      <time>2024-04-03T17:49:25.7450749+03:00</time>
+      <score>10</score>
+    </a2:QuizStats>
+    <a2:QuizStats id="ref-39" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_section_x003E_k__BackingField id="ref-49">MathTest</_x003C_section_x003E_k__BackingField>
+      <time>2024-04-03T19:22:15.0950652+03:00</time>
+      <score>4</score>
+    </a2:QuizStats>
+    <a2:QuizStats id="ref-40" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_section_x003E_k__BackingField id="ref-50">MathTest</_x003C_section_x003E_k__BackingField>
+      <time>2024-04-03T14:00:47.4647746+03:00</time>
+      <score>4</score>
+    </a2:QuizStats>
+    <a2:QuizStats id="ref-41" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_section_x003E_k__BackingField id="ref-51">MathTest</_x003C_section_x003E_k__BackingField>
+      <time>2024-04-03T13:58:15.4513964+03:00</time>
+      <score>0</score>
+    </a2:QuizStats>
+    <a2:QuizStats id="ref-42" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_section_x003E_k__BackingField id="ref-52">MathTest</_x003C_section_x003E_k__BackingField>
+      <time>2024-04-03T15:09:52.1701325+03:00</time>
+      <score>0</score>
+    </a2:QuizStats>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

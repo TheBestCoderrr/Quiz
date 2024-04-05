@@ -1,0 +1,172 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Quiz_Project.IQuestion%2C%20Quiz_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-2" />
+      <_size>20</_size>
+      <_version>20</_version>
+    </a1:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-2" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:IQuestion[32]">
+      <item href="#ref-3" />
+      <item href="#ref-4" />
+      <item href="#ref-5" />
+      <item href="#ref-6" />
+      <item href="#ref-7" />
+      <item href="#ref-8" />
+      <item href="#ref-9" />
+      <item href="#ref-10" />
+      <item href="#ref-11" />
+      <item href="#ref-12" />
+      <item href="#ref-13" />
+      <item href="#ref-14" />
+      <item href="#ref-15" />
+      <item href="#ref-16" />
+      <item href="#ref-17" />
+      <item href="#ref-18" />
+      <item href="#ref-19" />
+      <item href="#ref-20" />
+      <item href="#ref-21" />
+      <item href="#ref-22" />
+    </SOAP-ENC:Array>
+    <a2:MultiQuestion id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-23">Оберіть дати початку Другої світової війни та Великої Вітчизняної війни</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-24">AC</_x003C_answer_x003E_k__BackingField>
+      <variant_answers href="#ref-25" />
+    </a2:MultiQuestion>
+    <a2:Question id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-26">В якому році був підписаний 2 Універсал</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-27">1917</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:Question id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-28">В якому році було засновано декларацію про державний суверенітет України</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-29">1990</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:MultiQuestion id="ref-6" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-30">Хто з перерахованих є шістдесятником</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-31">BCD</_x003C_answer_x003E_k__BackingField>
+      <variant_answers href="#ref-32" />
+    </a2:MultiQuestion>
+    <a2:Question id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-33">Чи правильне твердження?
+Економіка СРСР часів Великої Вітчизняної війни базувалася: на праці евакуйованих та місцевих жителів східних районів</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-34">так</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:Question id="ref-8" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField href="#ref-33" />
+      <_x003C_answer_x003E_k__BackingField href="#ref-34" />
+    </a2:Question>
+    <a2:Question id="ref-9" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-35">В якому році відбувалися масові страйки шахтарів</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-36">1991</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:Question id="ref-10" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-37">В якому році Л. Кравчука було обрано президентом</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField href="#ref-36" />
+    </a2:Question>
+    <a2:Question id="ref-11" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-38">В якому році почалася 1 п'ятирічка</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-39">1928</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:Question id="ref-12" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-40">В якому році почався НЕП</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-41">1921</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:MultiQuestion id="ref-13" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-42">Основна боротьба загонів Української повстанської армії в 1942 р. – 1950-х рр. точилася на землях</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-43">B</_x003C_answer_x003E_k__BackingField>
+      <variant_answers href="#ref-44" />
+    </a2:MultiQuestion>
+    <a2:Question id="ref-14" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-45">У якому році до влади прийшов П. Скоропадський?</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-46">1918</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:Question id="ref-15" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-47">У якому році відбувся Брусиловський прорив</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-48">1916</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:Question id="ref-16" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-49">У якому році відбувся Горлицький прорив</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-50">1914</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:Question id="ref-17" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-51">Як називалася збройно-політична формація, що діяла на Волині від червня 1941 р. до лютого 1944 р</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-52">Поліська Січ</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:MultiQuestion id="ref-18" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField href="#ref-42" />
+      <_x003C_answer_x003E_k__BackingField href="#ref-43" />
+      <variant_answers href="#ref-53" />
+    </a2:MultiQuestion>
+    <a2:MultiQuestion id="ref-19" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-54">Хто з перерахованих не є шістдесятником</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-55">AD</_x003C_answer_x003E_k__BackingField>
+      <variant_answers href="#ref-56" />
+    </a2:MultiQuestion>
+    <a2:Question id="ref-20" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-57">У якому році почалася 1 світова війна</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField href="#ref-50" />
+    </a2:Question>
+    <a2:Question id="ref-21" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-58">У якому році відбувся стаханівський рух</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField id="ref-59">1935</_x003C_answer_x003E_k__BackingField>
+    </a2:Question>
+    <a2:Question id="ref-22" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Quiz_Project/Quiz_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_question_x003E_k__BackingField id="ref-60">В якому році був підписаний 4 Універсал</_x003C_question_x003E_k__BackingField>
+      <_x003C_answer_x003E_k__BackingField href="#ref-46" />
+    </a2:Question>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_ id="ref-25" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[System.String%2C%20System.Private.CoreLib%2C%20Version%3D7.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-61" />
+      <_size>4</_size>
+      <_version>4</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_ id="ref-32" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[System.String%2C%20System.Private.CoreLib%2C%20Version%3D7.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-62" />
+      <_size>4</_size>
+      <_version>4</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_ id="ref-44" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[System.String%2C%20System.Private.CoreLib%2C%20Version%3D7.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-63" />
+      <_size>4</_size>
+      <_version>4</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_ id="ref-53" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[System.String%2C%20System.Private.CoreLib%2C%20Version%3D7.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-64" />
+      <_size>4</_size>
+      <_version>4</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_ id="ref-56" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[System.String%2C%20System.Private.CoreLib%2C%20Version%3D7.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-65" />
+      <_size>4</_size>
+      <_version>4</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-61" SOAP-ENC:arrayType="SOAP-ENC:string[4]">
+      <item id="ref-66">A. 1 вересня 1939</item>
+      <item id="ref-67">B. 30 листопада 1940</item>
+      <item id="ref-68">С. 22 червня 1941</item>
+      <item id="ref-69">D. 15 квітня 1942</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-62" SOAP-ENC:arrayType="SOAP-ENC:string[4]">
+      <item id="ref-70">A - В. Стус</item>
+      <item id="ref-71">B - Л. Костенко</item>
+      <item id="ref-72">С - В. Симоненко</item>
+      <item id="ref-73">D - І. Драч</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-63" SOAP-ENC:arrayType="SOAP-ENC:string[4]">
+      <item id="ref-74">A - Центральної України.</item>
+      <item id="ref-75">B - Південної України.</item>
+      <item id="ref-76">С - Західної України.</item>
+      <item id="ref-77">D - Східної України.</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-64" SOAP-ENC:arrayType="SOAP-ENC:string[4]">
+      <item href="#ref-74" />
+      <item href="#ref-75" />
+      <item href="#ref-76" />
+      <item href="#ref-77" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-65" SOAP-ENC:arrayType="SOAP-ENC:string[4]">
+      <item id="ref-78">A - Г. Григоренко</item>
+      <item href="#ref-71" />
+      <item href="#ref-72" />
+      <item id="ref-79">D - В. Стус</item>
+    </SOAP-ENC:Array>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
